@@ -31,7 +31,7 @@
 
 #  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mindset Types.
 
-| &nbsp;&nbsp;❌   &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mindset Fixed | &nbsp;&nbsp; ✔️   ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Mindset Growth |
+| &nbsp;&nbsp;❌   &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mindset Fixed | &nbsp;&nbsp; ✔️   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Mindset Growth |
 |--------------  |---------------|
  Avoids trying something new  | Setback highlight issues problems that need to be learnt from |
 |Seeks to blame others for their setbacks | Actively seek out learning opportunities|
