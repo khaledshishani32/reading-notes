@@ -3,9 +3,9 @@
 
 | Syntax           | Description                 |
 | ------------     | ----------------------------|
-|[Growth Mindset]  |[Growth Mindset] (readme1.md)|
-|[git&github]      |[git&github] (readme2.md)    |
-|[Markdown]        |[Markdown]   (readme3.md)    |
+|[Growth Mindset]  |[Growth Mindset](readme1.md)|
+|[git&github]      |[git&github](readme2.md)    |
+|[Markdown]        |[Markdown](readme3.md)    |
 
 
 
