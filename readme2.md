@@ -3,7 +3,7 @@
 # What is version control?
 
 
-### &nbsp;&nbsp; &nbsp;   Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+### &nbsp; &nbsp; &nbsp;   Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
 
 
 ![](https://www.perforce.com/sites/default/files/image/2019-05/image-blog-what-is-version-control.jpg)
