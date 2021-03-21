@@ -1,6 +1,6 @@
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison and logical operators:
 
- ## Comparison operators :
+## Comparison operators :
 ### A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values .
 
 - Equal (==) Returns true if the operands are equal. compare values between value .
