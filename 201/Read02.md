@@ -65,13 +65,13 @@
 
 ### Example 
 
-## var myName="khaled";
-## console.log(myName);
+#### var myName="khaled";
+#### console.log(myName);
 
-## out put in console 
-## khaled
+#### out put in console 
+#### khaled
 
-## The console.log() is the method to print the values at the console (the area where executes the code).
+#### The console.log() is the method to print the values at the console (the area where executes the code).
 
 ## References:
 [techterms](https://techterms.com/definition/javascript)
