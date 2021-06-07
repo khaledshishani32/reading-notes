@@ -39,9 +39,9 @@
 
 | Assignment           | Link                 |
 | ------------         |    ----------------------------|
-|[read1]               |[props and state](301/read1.md)|
-|[read1]               |[props and state](301/read1.md)|
-|[read1]               |[props and state](301/read1.md)|
+|[read01]               |[Introduction to React and Components](301/read01.md)|
+|[read02]               |[props and state](301/read02.md)|
+|[read03]               |[Passing Functions as Props](301/read03.md)|
 
 
 ## Code 401 - Advanced Software Development
