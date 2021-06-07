@@ -64,6 +64,6 @@ local computer to your web server.
 
 ## References:
 ---
-[duckett_html_book]()
-[mozilla](https://developer.mozilla.org/)
-[w3schools](https://www.w3schools.com/)
+[medium](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+[stackoverflow.](https://stackoverflow.com)
+[educative](https://www.educative.io)
