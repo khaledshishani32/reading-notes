@@ -45,7 +45,7 @@
 |[read04]               |[React and Forms](301/read04.md)|
 |[read05]               |[Putting it all together](301/read05.md)|
 |[read07]               |[REST](301/read07.md)|
-
+|[read08]               |[APIs](301/read08.md)|
 
 ## Code 401 - Advanced Software Development
 
