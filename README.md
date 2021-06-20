@@ -49,6 +49,7 @@
 |[read09]               |[FUNCTIONAL PROGRAMMING](301/read09.md)|
 |[read10]               |[In memory storage](301/read10.md)|
 |[read11]               |[Authentication](301/read11.md)|
+|[read12]               |[Mongo and Mongoose](301/read12.md)|
 
 
 
