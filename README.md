@@ -50,6 +50,7 @@
 |[read10]               |[In memory storage](301/read10.md)|
 |[read11]               |[Authentication](301/read11.md)|
 |[read12]               |[Mongo and Mongoose](301/read12.md)|
+|[read13]               |[CRUD](301/read13.md)|
 
 
 
