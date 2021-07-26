@@ -61,7 +61,7 @@
 | Assignment           | Link                 |
 | ------------         |    ----------------------------|
 |[read01]               |[intro python](401/read01.md)|
-|[read02]               |[python](401/read02.md)|
+|[read02]               |[Testing and Modules](401/read02.md)|
 |[read03]               |[python](401/read03.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
