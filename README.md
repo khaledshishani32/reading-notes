@@ -66,6 +66,7 @@
 |[read04]               |[classes & objects](401/read04.md)|
 |[read05]               |[Linked List](401/read05.md)|
 |[read06]               |[Game of Greed 1](401/read06.md)|
+|[read07]               |[Game of Greed 2](401/read07.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
