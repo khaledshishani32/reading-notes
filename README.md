@@ -69,6 +69,7 @@
 |[read07]               |[Game of Greed 2](401/read07.md)|
 |[read08]               |[List Comprehensions](401/read08.md)|
 |[read09]               |[Dunder Methods](401/read09.md)|
+|[read10]               |[Stacks and Queues](401/read10.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
