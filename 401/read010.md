@@ -26,6 +26,8 @@
 | Delete operation is called pop operation. | Delete operation is called dequeue operation. |
 | In stacks we maintain only one pointer to access the list, called the top, which always points to the last element present in the list. | In queues we maintain two pointers to access the list. The front pointer always points to the first element inserted in the list and is still present, and the rear pointer always points to the last inserted element. |
 | Stack is used in solving problems works on recursion. | Queue is used in solving problems having sequential processing. |
+
+
 ---
 [medium](https://medium.com)
 [geeksforgeeks](https://www.geeksforgeeks.org/)
