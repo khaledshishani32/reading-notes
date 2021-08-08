@@ -71,6 +71,7 @@
 |[read09]               |[Dunder Methods](401/read09.md)|
 |[read10]               |[Stacks and Queues](401/read10.md)|
 |[read11]               |[Data Analysis](401/read11.md)|
+|[read12]               |[pandas](401/read12.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
