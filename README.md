@@ -76,6 +76,8 @@
 |[read14]               |[Matplotlib](401/read14.md)|
 |[read15]               |[Tree](401/read15.md)|
 |[read16]               |[Machine Learning Intro](401/read16.md)|
+|[read17]               |[Machine Learning Intro](401/read17.md)|
+|[read18]               |[Cryptography](401/read18.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
