@@ -79,6 +79,7 @@
 |[read17]               |[Machine Learning Intro](401/read17.md)|
 |[read18]               |[Cryptography](401/read18.md)|
 |[read19]               |[Python Regular Expression](401/read19.md)|
+|[read20]               |[Django](401/read20.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
