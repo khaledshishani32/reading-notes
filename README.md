@@ -80,6 +80,7 @@
 |[read18]               |[Cryptography](401/read18.md)|
 |[read19]               |[Python Regular Expression](401/read19.md)|
 |[read20]               |[Django](401/read20.md)|
+|[read21]               |[Django models ](401/read21.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
