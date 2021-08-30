@@ -6,7 +6,7 @@
 
 ### When designing your models it makes sense to have separate models for every "object" (a group of related information). In this case, the obvious objects are books, book instances, and authors.
 
-![](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models/local_library_model_uml.svg)
+![coode](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models/local_library_model_uml.svg)
 
 ---
 ####  Fields
@@ -36,8 +36,8 @@
 
 ### Each field in your model should be an instance of the appropriate Field class. Django uses the field class types to determine a few things:
 
-- The column type, which tells the database what kind of data to store (e.g. INTEGER, VARCHAR, TEXT).
-- The default HTML widget to use when rendering a form field (e.g. <input type="text">, <select>).
+- The column type, which tells the database what kind of data to store ( INTEGER, VARCHAR, TEXT).
+- The default HTML widget to use when rendering a form field ( <input type="text">, <select>).
 - The minimal validation requirements, used in Django’s admin and in automatically-generated forms.
 
 
