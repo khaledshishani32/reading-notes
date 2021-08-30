@@ -3,7 +3,7 @@
 #### Django provides a Form class which is used to create HTML forms. It describes a form and how it works and appears.
 #### It is similar to the ModelForm class that creates a form by using the Model, but it does not require the Model.
 
-#### Each field of the form class map to the HTML form <input> element and each one is a class itself, it manages form data and performs validation while submitting the form.
+#### Each field of the form class map to the HTML form input element and each one is a class itself, it manages form data and performs validation while submitting the form.
 
 ```
 from django import forms  
@@ -54,7 +54,7 @@ from django import forms
     </html>  
 ```
 
-## Provide the URL in urls.py
+## Provide the URL in urls
 
 ```
     from django.contrib import admin  
