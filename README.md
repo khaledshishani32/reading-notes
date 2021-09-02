@@ -82,7 +82,8 @@
 |[read20]               |[Django](401/read20.md)|
 |[read21]               |[Django models ](401/read21.md)|
 |[read22]               |[CRUD and  Forms ](401/read22.md)|
-|[read23]               |[Custom User Model ](401/read22.md)|
+|[read23]               |[Custom User Model ](401/read23.md)|
+|[read24]               |[Hashtable](401/read24.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
