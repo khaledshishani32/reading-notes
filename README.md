@@ -87,6 +87,7 @@
 |[read25]               |[Django REST framwork](401/read25.md)|
 |[read26]               |[DRF Permissions](401/read26.md)|
 |[read27]               |[JSON Web Token](401/read27.md)|
+|[read28]               |[SSH](401/read28.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
