@@ -22,7 +22,7 @@
 
 ---
 
-### Directed Graphs (Digraph)
+### Directed Graphs (Digraph) .
 
 #### A Directed Graph also called a Digraph is a graph where every edge is directed.
 
