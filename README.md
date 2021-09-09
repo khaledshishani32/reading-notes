@@ -88,6 +88,7 @@
 |[read26]               |[DRF Permissions](401/read26.md)|
 |[read27]               |[JSON Web Token](401/read27.md)|
 |[read28]               |[SSH](401/read28.md)|
+|[read29]               |[Graphs](401/read29.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
