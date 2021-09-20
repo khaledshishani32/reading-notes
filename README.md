@@ -95,6 +95,8 @@
 |[read33]               |[ReactJs 3 ](401/read33.md)|
 |[read34]               |[ReactJs 4 ](401/read34.md)|
 |[read35]               |[ReactJs 5 ](401/read35.md)|
+|[Ethics]               |[Ethics](Ethics/Ethics.md)|
+|[Open_Source]          |[Open_Source ](Open-Source/Open_Source.md)|
 
 [My GitHub ](https://github.com/khaledshishani32)
 
