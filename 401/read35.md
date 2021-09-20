@@ -204,11 +204,11 @@ def repeater(value):
 
 ### Python Generators That Stop Generating : 
 
-#### Thankfully, as programmers we get to work with a nicer interface this time around. Generators stop generating values as soon as control flow returns from the generator function by any means other than a yield statement. This means you no longer have to worry about raising StopIteration at all!
+#### Thankfully, as programmer's we get to work with a nicer interface this time around. Generators stop generating values as soon as control flow returns from the generator function by any means other than a yield statement. This means you no longer have to worry about raising StopIteration at all!
 
 #### Here’s an example:
 ```
-def repeat_three_times(value):
+def repeat_three_times(value) :
     yield value
     yield value
     yield value
